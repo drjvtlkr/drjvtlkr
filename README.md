@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @drjvtlkr
-- 👀 I’m interested in ... open source contribution for web
-- 🌱 I’m currently learning ... Machine learning and Java along with basics of Web development
-- 💞️ I’m looking to collaborate on ... Web development based projects
-- 📫 How to reach me ... 
+- 👀 Currently Working on Mern FullStack projects
+- 👨🏻‍💼 Employed  [@orbittechnologys ](https://github.com/orbittechnologys)
+- 🌱 I’m currently learning Nextjs, Golang, Rust and Solana. Determined to make impactfull contributions to the opensource wolrd!
+- 💞️ Looking to collaborate on scalable systems and build for public using Golang and Typescript(MERN)
+- 📫 How to reach me dheerajrvithalkar@gmail.com
 
 <!---
 drjvtlkr/drjvtlkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
